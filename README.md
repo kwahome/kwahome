@@ -1,8 +1,12 @@
 ### Hello world 👋 I'm Wahome ✨
 
-I'm a software engineer and a curious person who delights in working out the building blocks of the world, and rearranging them to build something even better.
+Always trying (not necessarily succeeding) to do the right thing, often overextending myself, I'm a curious person who delights in working out the building blocks of the world, and rearranging them to build something even better. 
 
-- 🔭 I’m currently helping deliver office intelligence with the Microsoft Search, Assistance, and Intelligence team.
+I'm a polyglot software engineer who has certainly made a lot of mistakes but learnt from them to become experienced. Indeed good judgment comes from experience, and experience from bad judgment. 
+
+My career is developing software, but my life is adventuring. I love nothing more than a good challenge, having fun while at it. I live for good humour and banter..
+
+I’m currently helping deliver office intelligence with the Microsoft Search, Assistance, and Intelligence team.
 
 <!--
 **kwahome/kwahome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
