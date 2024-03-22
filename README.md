@@ -4,9 +4,7 @@ Always trying (not necessarily succeeding) to do the right thing, often overexte
 
 I'm a polyglot software engineer who has certainly made a lot of mistakes but learnt from them to become experienced. Indeed good judgement comes from experience, and experience from bad judgement. 
 
-My career is developing software, but my life is adventuring. I love nothing more than a good challenge, having fun while at it. I live for good humour and banter..
-
-I’m currently helping deliver office intelligence with the Microsoft Search, Assistance, and Intelligence team.
+My career is developing software, but my life is adventuring. I love nothing more than a good challenge, having fun while at it. I live for good humour and banter.
 
 <!--
 **kwahome/kwahome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
